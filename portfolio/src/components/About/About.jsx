@@ -10,7 +10,7 @@ const About = () => {
             <div className="bg-black bg-opacity-30 rounded-2xl p-8 md:p-12 shadow-xl max-w-6xl w-full">
 
                 <h2 className="text-3xl md:text-5xl font-bold mb-10 text-center md:text-left">
-                    About
+                    Abouts
                 </h2>
 
                 <div className="flex flex-col md:flex-row items-center gap-10">
@@ -24,7 +24,7 @@ const About = () => {
                         />
                     </div>
 
-                    {/* Content */}
+                    {/* Content */} 
                     <div className="space-y-8">
 
                         {/* Item 1 */}
